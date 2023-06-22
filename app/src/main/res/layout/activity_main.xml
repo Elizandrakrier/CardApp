@@ -92,7 +92,7 @@
         android:id="@+id/txt_map"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="5dp"
+        android:layout_marginTop="10dp"
         android:text="@string/map"
         android:textColor="@color/map"
         app:layout_constraintEnd_toStartOf="@+id/guideline3"
